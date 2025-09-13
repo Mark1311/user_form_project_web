@@ -4,3 +4,7 @@ This is a simple Django project with a form on the left side and a table on the 
 ## Docker Image Link on Docker Hub
 
 https://hub.docker.com/repositories/bittukumar1311
+
+### Pull Image Form Docker Using this Command
+
+docker push bittukumar1311/user_form_projec
